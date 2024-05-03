@@ -1,0 +1,2 @@
+This is the information of the #1 client:
+Name: John, Age: 30, Height: 5.11
